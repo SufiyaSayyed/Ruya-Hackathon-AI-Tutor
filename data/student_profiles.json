@@ -231,6 +231,18 @@
           "confidence_level": "medium",
           "timestamp": null
         }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T15:48:50.763385",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
       }
     ],
     "performance_metrics": {

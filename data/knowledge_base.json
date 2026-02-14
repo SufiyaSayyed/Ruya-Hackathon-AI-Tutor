@@ -1,0 +1,406 @@
+{
+  "topics": {
+    "ielts_vocabulary": {
+      "name": "IELTS Vocabulary & Collocations",
+      "difficulty_levels": {
+        "beginner": {
+          "concepts": [
+            "common_adjectives",
+            "everyday_phrasal_verbs",
+            "basic_collocations"
+          ],
+          "examples": [
+            {
+              "concept": "common_adjectives",
+              "code": "The city is very modern and convenient for young professionals.",
+              "explanation": "IELTS often tests adjectives describing places (e.g., modern, convenient, crowded, peaceful)."
+            },
+            {
+              "concept": "common_adjectives",
+              "code": "The weather in my hometown is usually mild, with warm summers and cool winters.",
+              "explanation": "Describing weather with natural adjectives like mild, warm, cool is common in Speaking Part 1."
+            },
+            {
+              "concept": "everyday_phrasal_verbs",
+              "code": "I usually wake up at 7 a.m. and then get ready for work.",
+              "explanation": "Phrasal verbs like 'wake up' and 'get ready' make your speaking more natural."
+            },
+            {
+              "concept": "basic_collocations",
+              "code": "I try to eat healthy food and do regular exercise to stay fit.",
+              "explanation": "Collocations such as 'eat healthy food' and 'do exercise' are natural word combinations."
+            },
+            {
+              "concept": "basic_collocations",
+              "code": "Many people nowadays spend a lot of time on social media.",
+              "explanation": "Collocations like 'spend time on social media' are common in IELTS general topics."
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ielts_vocab_beg_1",
+              "question": "Fill in the blank with ONE suitable adjective:\n\n\"My hometown is very ______; there is not much traffic and it is quiet at night.\"",
+              "solution": "peaceful",
+              "hints": [
+                "Think of an adjective that means calm and quiet.",
+                "It often collocates with 'area', 'village', or 'environment'."
+              ]
+            },
+            {
+              "id": "ielts_vocab_beg_2",
+              "question": "Rewrite the sentence using a natural collocation:\n\n\"I do sports every day to be healthy.\"",
+              "solution": "I do exercise every day to stay healthy.",
+              "hints": [
+                "Replace 'do sports' with a more natural phrase using 'exercise'.",
+                "You can also use the collocation 'stay healthy'."
+              ]
+            },
+            {
+              "id": "ielts_vocab_beg_3",
+              "question": "Choose the most natural collocation:\n\n\"I usually ______ a shower before I go to bed.\"\nA) make\nB) take\nC) do",
+              "solution": "take",
+              "hints": [
+                "Think about what verb is commonly used with 'shower'.",
+                "It's the same verb used with 'photo' and 'break'."
+              ]
+            },
+            {
+              "id": "ielts_vocab_beg_4",
+              "question": "Fill in the phrasal verb:\n\n\"I like to ______ up early so I have time for breakfast.\"\n\n(Use one word to complete the phrasal verb.)",
+              "solution": "wake",
+              "hints": [
+                "It is often followed by 'up'.",
+                "It means 'stop sleeping'."
+              ]
+            }
+          ]
+        },
+        "intermediate": {
+          "concepts": [
+            "education_vocabulary",
+            "environment_vocabulary",
+            "adverb_collocations"
+          ],
+          "examples": [
+            {
+              "concept": "education_vocabulary",
+              "code": "Many students decide to pursue higher education abroad to broaden their horizons.",
+              "explanation": "Phrases like 'pursue higher education' and 'broaden their horizons' are high-value IELTS expressions."
+            },
+            {
+              "concept": "education_vocabulary",
+              "code": "Online courses allow learners to study at their own pace and access a wide range of resources.",
+              "explanation": "Expressions such as 'study at their own pace' and 'a wide range of resources' often appear in writing tasks about education."
+            },
+            {
+              "concept": "environment_vocabulary",
+              "code": "Governments should invest in renewable energy to reduce pollution and protect the environment.",
+              "explanation": "Vocabulary like 'renewable energy', 'reduce pollution', and 'protect the environment' is key for environment topics."
+            },
+            {
+              "concept": "environment_vocabulary",
+              "code": "Nowadays, many people are concerned about climate change and global warming.",
+              "explanation": "Collocations such as 'climate change' and 'global warming' frequently appear in IELTS reading and writing."
+            },
+            {
+              "concept": "adverb_collocations",
+              "code": "Public transport is generally reliable, but it can be extremely crowded during rush hour.",
+              "explanation": "Adverb + adjective collocations like 'generally reliable' and 'extremely crowded' make your language more precise."
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ielts_vocab_int_1",
+              "question": "Fill in the blank with ONE suitable academic collocation:\n\n\"Many students want to ______ higher education in another country to gain international experience.\"",
+              "solution": "pursue",
+              "hints": [
+                "Think of a verb that commonly goes with 'higher education'.",
+                "It means 'to try to achieve' something over a period of time."
+              ]
+            },
+            {
+              "id": "ielts_vocab_int_2",
+              "question": "Choose the most natural phrase to complete the sentence:\n\n\"Governments should invest in ______ to reduce pollution.\"\nA) strong energy\nB) expensive energy\nC) renewable energy",
+              "solution": "renewable energy",
+              "hints": [
+                "Think about energy sources like wind and solar.",
+                "The correct phrase is often used in environment essays."
+              ]
+            },
+            {
+              "id": "ielts_vocab_int_3",
+              "question": "Rewrite the sentence to sound more academic:\n\n\"Many people are very worried about the weather changing.\"",
+              "solution": "Many people are deeply concerned about climate change.",
+              "hints": [
+                "Replace 'very worried' with 'deeply concerned'.",
+                "Replace 'the weather changing' with a more formal term used in IELTS."
+              ]
+            },
+            {
+              "id": "ielts_vocab_int_4",
+              "question": "Fill in the missing collocation:\n\n\"Universities should provide students with a ______ range of facilities, including libraries and sports centres.\"",
+              "solution": "wide",
+              "hints": [
+                "It often appears before 'range of'.",
+                "It means 'large' or 'varied' in this context."
+              ]
+            },
+            {
+              "id": "ielts_vocab_int_5",
+              "question": "Choose the best adverb to complete the collocation:\n\n\"The government is ______ aware of the environmental consequences of its policies.\"\nA) heavily\nB) deeply\nC) strongly",
+              "solution": "deeply",
+              "hints": [
+                "Think about which adverb usually goes with 'aware'.",
+                "You often hear it in the phrase 'deeply aware'."
+              ]
+            }
+          ]
+        },
+        "advanced": {
+          "concepts": [
+            "high_band_collocations",
+            "cause_effect_language",
+            "hedging_and_stance"
+          ],
+          "examples": [
+            {
+              "concept": "high_band_collocations",
+              "code": "Introducing stricter regulations could significantly mitigate the negative impact of air pollution.",
+              "explanation": "Collocations like 'mitigate the negative impact' are typical of Band 7+ writing."
+            },
+            {
+              "concept": "cause_effect_language",
+              "code": "Over-reliance on cars inevitably leads to increased congestion and deteriorating air quality.",
+              "explanation": "Phrases such as 'inevitably leads to' and 'deteriorating air quality' express clear cause and effect."
+            },
+            {
+              "concept": "hedging_and_stance",
+              "code": "It could be argued that governments bear the primary responsibility for tackling climate change.",
+              "explanation": "Hedging expressions like 'it could be argued that' show a sophisticated academic stance."
+            },
+            {
+              "concept": "high_band_collocations",
+              "code": "Urbanisation has given rise to a range of social problems, including overcrowding and rising crime rates.",
+              "explanation": "Expressions like 'given rise to' and 'a range of social problems' are strong collocations for Band 7+."
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ielts_vocab_adv_1",
+              "question": "Complete the sentence with ONE suitable collocation:\n\n\"Raising fuel taxes may help to ______ the negative impact of car use on the environment.\"",
+              "solution": "mitigate",
+              "hints": [
+                "Think of a formal verb meaning 'reduce the harmful effect'.",
+                "It often appears before 'negative impact' or 'risk'."
+              ]
+            },
+            {
+              "id": "ielts_vocab_adv_2",
+              "question": "Rewrite the sentence using a more advanced structure:\n\n\"People say that the government is mainly responsible for solving environmental problems.\"",
+              "solution": "It could be argued that the government bears the primary responsibility for solving environmental problems.",
+              "hints": [
+                "Begin with 'It could be argued that...'.",
+                "Use a more formal verb than 'is responsible for'."
+              ]
+            },
+            {
+              "id": "ielts_vocab_adv_3",
+              "question": "Fill in the gap with TWO words to form a strong collocation:\n\n\"Rapid urbanisation has ______ rise ______ numerous social issues in big cities.\"",
+              "solution": "given, to",
+              "hints": [
+                "Think of the expression 'to give ____ to'.",
+                "It means 'to cause something to start happening'."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ielts_reading_skills": {
+      "name": "IELTS Reading Skills",
+      "difficulty_levels": {
+        "beginner": {
+          "concepts": [
+            "skimming_for_main_idea",
+            "scanning_for_details"
+          ],
+          "examples": [
+            {
+              "concept": "skimming_for_main_idea",
+              "code": "Paragraph: \"Many people today choose to work from home. This trend has both advantages and disadvantages. On the one hand, employees can save time and money on commuting. On the other hand, they may feel isolated from their colleagues.\"\n\nMain idea: Working from home has both benefits and drawbacks.",
+              "explanation": "When skimming, focus on the first and last sentences to find the main idea quickly."
+            },
+            {
+              "concept": "skimming_for_main_idea",
+              "code": "Paragraph: \"Modern cities are facing serious traffic problems. Roads are often congested during peak hours, and public transport systems are sometimes overcrowded and unreliable. As a result, many people are looking for alternative ways to travel.\"\n\nMain idea: Modern cities struggle with traffic and public transport issues.",
+              "explanation": "Look for repeated ideas like 'traffic problems', 'congested', 'overcrowded' to identify the central topic."
+            },
+            {
+              "concept": "scanning_for_details",
+              "code": "Short text: \"The museum opens at 9 a.m. and closes at 6 p.m. from Monday to Friday. At weekends, it opens at 10 a.m. and closes at 8 p.m.\"",
+              "explanation": "When scanning for details, focus on numbers, times, or specific names rather than reading every word."
+            },
+            {
+              "concept": "scanning_for_details",
+              "code": "Short text: \"The conference will be held in London from 12th to 15th July. More than 200 researchers from 30 countries are expected to attend.\"",
+              "explanation": "Use scanning to find exact dates and numbers that the question is asking about."
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ielts_read_beg_1",
+              "question": "Read the paragraph and choose the best MAIN IDEA:\n\n\"Many people today choose to work from home. This trend has both advantages and disadvantages. On the one hand, employees can save time and money on commuting. On the other hand, they may feel isolated from their colleagues.\" \n\nA) Working from home is always better than working in an office.\nB) Working from home has both positive and negative sides.\nC) Commuting is the worst part of office work.",
+              "solution": "B",
+              "hints": [
+                "Look at the second sentence for a summary.",
+                "Notice the contrast 'on the one hand / on the other hand'."
+              ]
+            },
+            {
+              "id": "ielts_read_beg_2",
+              "question": "You are scanning a text for the museum's closing time on Saturdays. Which part of the text should you focus on?\n\n\"The museum opens at 9 a.m. and closes at 6 p.m. from Monday to Friday. At weekends, it opens at 10 a.m. and closes at 8 p.m.\"",
+              "solution": "At weekends, it opens at 10 a.m. and closes at 8 p.m.",
+              "hints": [
+                "Look for the phrase that mentions 'weekends'.",
+                "You do not need to read the whole text in detail."
+              ]
+            },
+            {
+              "id": "ielts_read_beg_3",
+              "question": "True or False?\n\n\"When skimming a paragraph, you should read every word carefully.\"\n\nAnswer with 'true' or 'false'.",
+              "solution": "false",
+              "hints": [
+                "Skimming is about speed, not detail.",
+                "You mainly need the first and last sentences and repeated ideas."
+              ]
+            }
+          ]
+        },
+        "intermediate": {
+          "concepts": [
+            "identifying_opinion_vs_fact",
+            "understanding_reference_words"
+          ],
+          "examples": [
+            {
+              "concept": "identifying_opinion_vs_fact",
+              "code": "Sentence: \"Many experts believe that public transport should be free in large cities.\"",
+              "explanation": "Phrases like 'many experts believe' show an opinion, not a proven fact."
+            },
+            {
+              "concept": "identifying_opinion_vs_fact",
+              "code": "Sentence: \"In 2020, the city introduced a new subway line that reduced travel time by 20%.\"",
+              "explanation": "Specific dates and numbers usually indicate a fact that can be checked."
+            },
+            {
+              "concept": "understanding_reference_words",
+              "code": "Short text: \"The new policy has been praised by environmental groups. They say it will significantly reduce air pollution. This is especially important in big cities.\"",
+              "explanation": "In this text, 'they' refers to 'environmental groups', and 'this' refers to 'the new policy'. Recognising reference words helps you follow the argument."
+            },
+            {
+              "concept": "understanding_reference_words",
+              "code": "Short text: \"Electric cars are becoming more popular. This trend is expected to continue as prices fall.\"",
+              "explanation": "Here, 'this trend' refers to 'electric cars becoming more popular'."
+            },
+            {
+              "concept": "identifying_opinion_vs_fact",
+              "code": "Sentence: \"It is clear that governments must take immediate action to address climate change.\"",
+              "explanation": "Expressions like 'it is clear that' usually introduce a strong opinion or conclusion."
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ielts_read_int_1",
+              "question": "Read the sentence and decide if it is a FACT or an OPINION:\n\n\"In 2020, the city introduced a new subway line that reduced travel time by 20%.\"",
+              "solution": "fact",
+              "hints": [
+                "Look for numbers and dates.",
+                "Ask yourself: can this be checked or measured?"
+              ]
+            },
+            {
+              "id": "ielts_read_int_2",
+              "question": "In the text below, what does the word \"they\" refer to?\n\n\"The new policy has been praised by environmental groups. They say it will significantly reduce air pollution.\"",
+              "solution": "environmental groups",
+              "hints": [
+                "Look at the previous sentence.",
+                "Pronouns usually refer to the nearest suitable noun before them."
+              ]
+            },
+            {
+              "id": "ielts_read_int_3",
+              "question": "Is the following sentence more likely to be a FACT or an OPINION?\n\n\"It is clear that public transport is the best solution to city traffic problems.\"",
+              "solution": "opinion",
+              "hints": [
+                "Look at the phrase 'it is clear that'.",
+                "Can everyone measure or agree on what is 'the best solution'?"
+              ]
+            },
+            {
+              "id": "ielts_read_int_4",
+              "question": "In the sentence below, what does the word \"this\" refer to?\n\n\"Electric cars are becoming more popular. This trend is expected to continue as prices fall.\"",
+              "solution": "Electric cars becoming more popular",
+              "hints": [
+                "Look at the whole sentence before 'this trend'.",
+                "It usually refers back to the main idea in the previous sentence."
+              ]
+            }
+          ]
+        },
+        "advanced": {
+          "concepts": [
+            "inference_and_implication",
+            "understanding_writer_attitude",
+            "matching_headings"
+          ],
+          "examples": [
+            {
+              "concept": "inference_and_implication",
+              "code": "Text: \"Although the government has introduced several measures to reduce traffic, congestion levels remain high in most major cities.\"",
+              "explanation": "From this sentence, we can infer that the measures have not been very effective."
+            },
+            {
+              "concept": "understanding_writer_attitude",
+              "code": "Sentence: \"It is disappointing that so little has been done to protect historic buildings in the city.\"",
+              "explanation": "Words like 'disappointing' show a negative attitude from the writer."
+            },
+            {
+              "concept": "matching_headings",
+              "code": "Paragraph: \"Many companies now allow employees to work remotely. This flexibility can improve work-life balance, but it also creates challenges for communication and teamwork.\"",
+              "explanation": "A suitable heading might be 'The benefits and challenges of remote work'."
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ielts_read_adv_1",
+              "question": "Read the sentence and choose what we can infer:\n\n\"Although the government has introduced several measures to reduce traffic, congestion levels remain high in most major cities.\"\n\nA) The measures have been very successful.\nB) The measures have had limited effect.\nC) There are no traffic problems anymore.",
+              "solution": "B",
+              "hints": [
+                "Look at the contrast introduced by 'although'.",
+                "Focus on what 'congestion levels remain high' implies."
+              ]
+            },
+            {
+              "id": "ielts_read_adv_2",
+              "question": "What is the writer's attitude in this sentence?\n\n\"It is disappointing that so little has been done to protect historic buildings in the city.\"",
+              "solution": "The writer is unhappy or critical about the lack of action.",
+              "hints": [
+                "Notice the adjective 'disappointing'.",
+                "Is the writer positive, neutral, or negative?"
+              ]
+            },
+            {
+              "id": "ielts_read_adv_3",
+              "question": "Which heading best matches the paragraph?\n\n\"Many companies now allow employees to work remotely. This flexibility can improve work-life balance, but it also creates challenges for communication and teamwork.\"\n\nA) How technology destroys communication\nB) The benefits and challenges of remote work\nC) Why offices are better than working from home",
+              "solution": "B",
+              "hints": [
+                "Headings should cover the whole paragraph, not just one part.",
+                "Look at both the positive and negative points mentioned."
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

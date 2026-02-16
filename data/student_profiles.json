@@ -3,7 +3,7 @@
     "id": "student_123",
     "name": "Demo IELTS Student",
     "skill_levels": {
-      "ielts_vocabulary": 0.5367205,
+      "ielts_vocabulary": 0.7537942792405,
       "ielts_reading_skills": 0.35
     },
     "learning_style": "visual",
@@ -243,11 +243,289 @@
           "confidence_level": "medium",
           "timestamp": null
         }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T16:09:16.546200",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T16:15:03.510387",
+        "exercise_id": "ielts_vocab_int_1"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T16:15:03.510868",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_1",
+          "topic": "ielts_vocabulary",
+          "answer_length": 1,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T16:15:27.457668",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T16:15:35.189603",
+        "exercise_id": "ielts_vocab_int_2"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T16:15:35.190615",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_2",
+          "topic": "ielts_vocabulary",
+          "answer_length": 2,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T16:15:58.728839",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T16:16:17.776901",
+        "exercise_id": "ielts_vocab_int_3"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T16:16:17.777874",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_3",
+          "topic": "ielts_vocabulary",
+          "answer_length": 8,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": true
+          },
+          "confidence_level": "high"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T16:16:19.440528",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T16:16:40.647881",
+        "exercise_id": "ielts_vocab_int_4"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T16:16:40.649024",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_4",
+          "topic": "ielts_vocabulary",
+          "answer_length": 1,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T16:16:42.062913",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T16:16:52.000592",
+        "exercise_id": "ielts_vocab_int_5"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T16:16:52.002241",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_5",
+          "topic": "ielts_vocabulary",
+          "answer_length": 1,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T16:16:53.133003",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "type": "provide_feedback",
+        "action": "provide_feedback",
+        "timestamp": "2026-02-14T16:51:56.371759",
+        "context": {
+          "intent": "request_feedback",
+          "topic": "general",
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "explain_concept",
+        "action": "teach_concept",
+        "timestamp": "2026-02-14T16:51:58.070311",
+        "context": {
+          "intent": "explain_concept",
+          "topic": "ielts_vocabulary",
+          "confusion_level": "medium",
+          "confidence_level": "low"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T16:53:17.598697",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T16:53:22.230749",
+        "exercise_id": "ielts_vocab_int_1"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T16:53:22.231543",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_1",
+          "topic": "ielts_vocabulary",
+          "answer_length": 1,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "explain_concept",
+        "action": "teach_concept",
+        "timestamp": "2026-02-14T16:53:24.255321",
+        "context": {
+          "intent": "explain_concept",
+          "topic": "ielts_vocabulary",
+          "confusion_level": "medium",
+          "confidence_level": "low"
+        }
+      },
+      {
+        "type": "provide_feedback",
+        "action": "provide_feedback",
+        "timestamp": "2026-02-14T16:53:33.376652",
+        "context": {
+          "intent": "request_feedback",
+          "topic": "general",
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T18:03:56.535581",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
       }
     ],
     "performance_metrics": {
-      "avg_accuracy": 0.64,
-      "topics_mastered": [],
+      "avg_accuracy": 0.8363636363636363,
+      "topics_mastered": [
+        "ielts_vocabulary"
+      ],
       "topics_struggling": [
         "basic_collocations",
         "skimming_for_main_idea"
@@ -258,7 +536,7 @@
     "id": "student_456",
     "name": "Advanced IELTS Student",
     "skill_levels": {
-      "ielts_vocabulary": 0.6526226750000002,
+      "ielts_vocabulary": 0.7946093614868223,
       "ielts_reading_skills": 0.7
     },
     "learning_style": "analytical",
@@ -556,12 +834,760 @@
           "confidence_level": "medium",
           "timestamp": null
         }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T16:07:00.673999",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 0.1,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T16:07:03.834092",
+        "exercise_id": "ielts_vocab_int_3"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T16:07:03.834787",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_3",
+          "topic": "ielts_vocabulary",
+          "answer_length": 1,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T16:07:04.883376",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T17:03:06.178003",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T17:10:11.216270",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:51:35.439420",
+        "exercise_id": "ielts_vocab_int_4"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:51:35.440241",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_4",
+          "topic": "ielts_vocabulary",
+          "answer_length": 1,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T17:51:37.101645",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:51:43.762444",
+        "exercise_id": "ielts_vocab_int_5"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:51:43.763038",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_5",
+          "topic": "ielts_vocabulary",
+          "answer_length": 1,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T17:51:45.851421",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:51:54.414119",
+        "exercise_id": "ielts_vocab_int_1"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:51:54.415325",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_1",
+          "topic": "ielts_vocabulary",
+          "answer_length": 1,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T17:51:55.585637",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:52:01.780836",
+        "exercise_id": "ielts_vocab_int_1"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:52:01.781545",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_1",
+          "topic": "ielts_vocabulary",
+          "answer_length": 1,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T17:52:02.820869",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:52:14.441692",
+        "exercise_id": "ielts_vocab_int_2"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:52:14.443309",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_2",
+          "topic": "ielts_vocabulary",
+          "answer_length": 2,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T17:52:15.475068",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:52:58.720502",
+        "exercise_id": "ielts_vocab_int_3"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:52:58.721233",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_3",
+          "topic": "ielts_vocabulary",
+          "answer_length": 8,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": true
+          },
+          "confidence_level": "high"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T17:52:59.952822",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:53:04.259748",
+        "exercise_id": "ielts_vocab_int_4"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:53:04.261761",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_4",
+          "topic": "ielts_vocabulary",
+          "answer_length": 1,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T17:53:05.553598",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:53:12.106756",
+        "exercise_id": "ielts_vocab_int_5"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:53:12.107656",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_5",
+          "topic": "ielts_vocabulary",
+          "answer_length": 1,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T17:53:14.052783",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:53:18.833033",
+        "exercise_id": "ielts_vocab_int_1"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:53:18.834119",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_1",
+          "topic": "ielts_vocabulary",
+          "answer_length": 1,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T17:53:19.942739",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:53:28.504368",
+        "exercise_id": "ielts_vocab_int_1"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:53:28.505659",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_1",
+          "topic": "ielts_vocabulary",
+          "answer_length": 1,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T17:53:43.516975",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:53:53.268005",
+        "exercise_id": "ielts_vocab_int_2"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:53:53.269050",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_2",
+          "topic": "ielts_vocabulary",
+          "answer_length": 2,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T17:53:54.246863",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:54:00.629162",
+        "exercise_id": "ielts_vocab_int_3"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:54:00.630314",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_3",
+          "topic": "ielts_vocabulary",
+          "answer_length": 8,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": true
+          },
+          "confidence_level": "high"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T17:54:01.680909",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:54:06.910273",
+        "exercise_id": "ielts_vocab_int_4"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:54:06.912096",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_4",
+          "topic": "ielts_vocabulary",
+          "answer_length": 1,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T17:54:08.346382",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:54:13.908474",
+        "exercise_id": "ielts_vocab_int_5"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:54:13.909753",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_5",
+          "topic": "ielts_vocabulary",
+          "answer_length": 1,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T17:54:14.950372",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:54:19.513270",
+        "exercise_id": "ielts_vocab_int_1"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:54:19.515279",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_1",
+          "topic": "ielts_vocabulary",
+          "answer_length": 1,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T17:54:20.770480",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:54:26.317024",
+        "exercise_id": "ielts_vocab_int_1"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:54:26.318194",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_1",
+          "topic": "ielts_vocabulary",
+          "answer_length": 1,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T17:54:27.393670",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 1.0,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:54:40.631313",
+        "exercise_id": "ielts_vocab_int_2"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T17:54:40.632262",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_2",
+          "topic": "ielts_vocabulary",
+          "answer_length": 2,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T17:54:42.007019",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 0.1,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T18:19:52.026527",
+        "exercise_id": "ielts_vocab_int_1"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T18:19:52.027909",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_1",
+          "topic": "ielts_vocabulary",
+          "answer_length": 1,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "medium"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T18:20:02.513038",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
+      },
+      {
+        "topic": "ielts_vocabulary",
+        "performance": 0.3,
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T18:20:48.989470",
+        "exercise_id": "ielts_vocab_int_3"
+      },
+      {
+        "type": "submit_answer",
+        "action": "evaluate_answer",
+        "timestamp": "2026-02-14T18:20:48.990672",
+        "context": {
+          "intent": "submit_answer",
+          "exercise_id": "ielts_vocab_int_3",
+          "topic": "ielts_vocabulary",
+          "answer_length": 12,
+          "answer_features": {
+            "has_numbers": false,
+            "has_special_chars": false
+          },
+          "confidence_level": "high"
+        }
+      },
+      {
+        "type": "explain_concept",
+        "action": "teach_concept",
+        "timestamp": "2026-02-14T18:20:58.765725",
+        "context": {
+          "intent": "explain_concept",
+          "topic": "ielts_vocabulary",
+          "confusion_level": "medium",
+          "confidence_level": "low"
+        }
+      },
+      {
+        "type": "request_exercise",
+        "action": "provide_exercise",
+        "timestamp": "2026-02-14T18:21:25.346589",
+        "context": {
+          "intent": "request_exercise",
+          "topic": "ielts_vocabulary",
+          "difficulty": "intermediate",
+          "confidence_level": "medium",
+          "timestamp": null
+        }
       }
     ],
     "performance_metrics": {
-      "avg_accuracy": 0.5980000000000001,
+      "avg_accuracy": 0.7826666666666667,
       "topics_mastered": [
-        "common_adjectives"
+        "common_adjectives",
+        "ielts_vocabulary"
       ],
       "topics_struggling": []
     }

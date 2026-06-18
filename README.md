@@ -1,15 +1,15 @@
-# 🎓 IELTS Personalized Learning Tutor
+# IELTS Personalized Learning Tutor
 ## Multi-Agent Self-Learning System for Hackathon
 
 A sophisticated adaptive learning system that uses a multi-agent architecture to provide personalized IELTS tutoring. Built for a 5-hour hackathon challenge.
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 This system implements a **4-agent architecture** for intelligent, adaptive learning:
 
-### **Agent 1: Perception Agent** 👁️
+### **Agent 1: Perception Agent** 
 **Role:** Process raw observations and extract relevant features
 
 **Responsibilities:**
@@ -28,7 +28,7 @@ This system implements a **4-agent architecture** for intelligent, adaptive lear
 
 ---
 
-### **Agent 2: Memory Agent** 🧠
+### **Agent 2: Memory Agent** 
 **Role:** Store, retrieve, and manage experiences
 
 **Responsibilities:**
@@ -49,7 +49,7 @@ This system implements a **4-agent architecture** for intelligent, adaptive lear
 
 ---
 
-### **Agent 3: Planning Agent** 🎲
+### **Agent 3: Planning Agent** 
 **Role:** Decide what action to take (Decision Engine)
 
 **Responsibilities:**
@@ -70,7 +70,7 @@ This system implements a **4-agent architecture** for intelligent, adaptive lear
 
 ---
 
-### **Agent 4: Evaluation Agent** 📊
+### **Agent 4: Evaluation Agent** 
 **Role:** Assess action quality and provide learning signals
 
 **Responsibilities:**
@@ -93,7 +93,7 @@ This system implements a **4-agent architecture** for intelligent, adaptive lear
 
 ---
 
-## 🔄 Multi-Agent Orchestration
+##  Multi-Agent Orchestration
 
 The **Orchestrator** coordinates all agents in a learning loop:
 
